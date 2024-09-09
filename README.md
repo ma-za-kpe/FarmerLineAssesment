@@ -1,15 +1,17 @@
 Merge Data Surveys
+## Demo
+
+
+Uploading Screen_recording_20240909_142648.mp4…
+
+
+
 ## Features
 
 Fetching Surveys: When a user opens the app, it connects to the online platform and retrieves the surveys that the client has created.
 Offline Storage: The app then stores these surveys locally on the user's device, allowing them to be accessed even without an internet connection.
 Offline Completion: Users can fill out the surveys directly on their smartphone, even if they're offline. Their answers are saved locally.
 Synchronization: When the user has an internet connection again, the app can synchronize the completed surveys and their responses back to the online platform.
-
-## Screenshots
-![Screenshot_20240908_230207](https://github.com/user-attachments/assets/f0440aa8-9d2a-4fda-a774-46e65c07628c)
-![Screenshot_20240909_142321](https://github.com/user-attachments/assets/5f9d4162-3bf7-4c38-878d-d9597ee1d978)
-
 
 ## Technologies Used
 
@@ -29,6 +31,10 @@ Improve error handling and user feedback
 Enhance the user interface and design
 Implement survey form validation
 Improve offline functionality and network connectivity detection
+
+## Screenshots
+![Screenshot_20240908_230207](https://github.com/user-attachments/assets/f0440aa8-9d2a-4fda-a774-46e65c07628c)
+![Screenshot_20240909_142321](https://github.com/user-attachments/assets/5f9d4162-3bf7-4c38-878d-d9597ee1d978)
 
 ## Usage
 
