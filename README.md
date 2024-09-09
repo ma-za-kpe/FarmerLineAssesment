@@ -35,6 +35,7 @@ Improve offline functionality and network connectivity detection
 - Improve offline functionality
 - Write tests for most of the business logic
 - Work on all the TODO's in the app
+- clean up the ui to make it look nicer
 
 ## Screenshots
 ![Screenshot_20240908_230207](https://github.com/user-attachments/assets/f0440aa8-9d2a-4fda-a774-46e65c07628c)
