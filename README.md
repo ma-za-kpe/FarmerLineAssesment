@@ -7,7 +7,9 @@ Offline Completion: Users can fill out the surveys directly on their smartphone,
 Synchronization: When the user has an internet connection again, the app can synchronize the completed surveys and their responses back to the online platform.
 
 ## Screenshots
-<img src="screenshot1.png" width="300"> <img src="screenshot2.png" width="300">
+![Screenshot_20240908_230207](https://github.com/user-attachments/assets/f0440aa8-9d2a-4fda-a774-46e65c07628c)
+![Screenshot_20240909_142321](https://github.com/user-attachments/assets/5f9d4162-3bf7-4c38-878d-d9597ee1d978)
+
 
 ## Technologies Used
 
